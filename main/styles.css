@@ -55,6 +55,7 @@ li a {
 /* altera o estilo dos links quando o mouse passa por cima */
 li a:hover {
   background-color: #11111149;
+  color: #ffffff;
 }
 
 /* altera o estilo do link ativo */
